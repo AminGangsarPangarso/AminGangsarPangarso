@@ -1,7 +1,7 @@
 # Halo semua! 
 
 Perkenalkan nama saya **AMIN GANGSAR PANGARSO**.<br>
-Saya sekarang software engineer Frontend Developer di Praisindo Teknologi 
+Saya sekarang Software Engineer Frontend Developer di Praisindo Teknologi 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/amin-gangsar-55b66726b/)ku ya.
 
 <p align="left">
