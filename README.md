@@ -10,3 +10,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AminGangsarPangarso&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+![snake gif](https://raw.githubusercontent.com/AminGangsarPangarso/output/github-contribution-grid-snake.svg)
