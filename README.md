@@ -2,7 +2,8 @@
 
 Perkenalkan nama saya **AMIN GANGSAR PANGARSO**.<br>
 Saya sekarang Software Engineer Frontend Developer di Praisindo Teknologi .<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/amin-gangsar-55b66726b/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/amin-gangsar-55b66726b/)ku ya.<br>
+My Portofolio [Portofolio](https://portfolio-amin-gangsar.vercel.app/)
 
 <p align="left">
 <a href="https://github.com/AminGangsarPangarso">
