@@ -12,3 +12,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/AminGangsarPangarso/output/github-contribution-grid-snake.svg)
+
